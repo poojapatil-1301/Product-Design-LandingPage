@@ -13,7 +13,7 @@ This is Pooja Patil.
 
 ### My Project is looking like :
 
-![Web Site Image](./Assets/complete%20SS.png)
+![Web Site Image](./Assets/screencapture.png)
 
 ### You can Check it Live on Below Link :
 
